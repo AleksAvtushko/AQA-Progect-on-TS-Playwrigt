@@ -4,12 +4,12 @@
   "description": "(будет дополнено)",
   "main": "index.js",
   "scripts": {
-  "test": "playwright test",
-  "test:ui": "playwright test --ui",
-  "test:headed": "playwright test --headed",
-  "report": "playwright show-report",
-  "typecheck": "tsc --noEmit"
-},
+    "test": "playwright test",
+    "test:ui": "playwright test --ui",
+    "test:headed": "playwright test --headed",
+    "report": "playwright show-report",
+    "typecheck": "tsc --noEmit"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/AleksAvtushko/AQA-Progect-on-TS-Playwrigt.git"
@@ -25,5 +25,8 @@
   "devDependencies": {
     "@playwright/test": "^1.65.0",
     "@types/node": "^26.6.6"
+  },
+  "dependencies": {
+    "typescript": "^7.0.2"
   }
 }

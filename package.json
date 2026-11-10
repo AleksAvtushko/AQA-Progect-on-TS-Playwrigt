@@ -1,0 +1,23 @@
+{
+  "name": "aqaprogect",
+  "version": "1.0.0",
+  "description": "(будет дополнено)",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AleksAvtushko/AQA-Progect-on-TS-Playwrigt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AleksAvtushko/AQA-Progect-on-TS-Playwrigt/issues"
+  },
+  "homepage": "https://github.com/AleksAvtushko/AQA-Progect-on-TS-Playwrigt#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.65.0",
+    "@types/node": "^26.6.6"
+  }
+}
